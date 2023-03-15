@@ -1,1 +1,1 @@
-# C5511 - Projeto de Uberização
+# MyGuide - Fonte de guia para todas as suas viágens
