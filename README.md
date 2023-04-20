@@ -1,1 +1,1 @@
-# MyGuide - Fonte de guia para todas as suas viágens
+# MyGuide - Fonte de guia para todas as suas viagens
